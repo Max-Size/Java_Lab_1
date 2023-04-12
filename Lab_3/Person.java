@@ -23,7 +23,7 @@ public class Person {
     }
     public void get_info(){
         System.out.println("Please input the data in the following format:");
-        System.out.println("Surname Name SecondName dd.MM.yyyy");
+        System.out.println("Surname Name Patronymic dd.MM.yyyy");
         Scanner in = new Scanner(System.in);
         String[] info = in.nextLine().split(" ");
         in.close();
@@ -82,7 +82,7 @@ public class Person {
                 append(age_word);
     }
     public void print_info() {
-        preparing_info_to_print();
+        this.preparing_info_to_print();
         System.out.println(info_to_print);
     }
 }
