@@ -10,7 +10,6 @@ public class Main {
         int interval = in.nextInt();
         in.nextLine();
         System.out.print("Please input amount of client requests:");
-        System.out.println();
         int amountOfRequests = in.nextInt();
         in.nextLine();
         Elevator elevator1 = new Elevator(1,amountOfFloors);
