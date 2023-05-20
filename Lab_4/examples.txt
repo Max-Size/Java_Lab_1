@@ -1,0 +1,68 @@
+New client at 2 floor wants to go up
+Elevator-1 now on 1 floor
+Elevator-1 someone is coming on 2 floor
+New client at 7 floor wants to go up
+Elevator-1 now on 2 floor
+New client at 8 floor wants to go down
+Elevator-2 now on 1 floor
+Elevator-1 now on 3 floor
+New client at 9 floor wants to go up
+Elevator-2 now on 2 floor
+Elevator-1 now on 4 floor
+Elevator-2 now on 3 floor
+Elevator-1 now on 5 floor
+Elevator-2 now on 4 floor
+Elevator-1 now on 6 floor
+Elevator-2 now on 5 floor
+Elevator-1 someone is coming on 7 floor
+Elevator-2 now on 6 floor
+Elevator-1 now on 7 floor
+Elevator-2 now on 7 floor
+Elevator-1 now on 8 floor
+Elevator-2 someone is coming on 8 floor
+Elevator-1 someone is coming on 9 floor
+Elevator-2 now on 8 floor
+Elevator-1 now on 9 floor
+Elevator-2 now on 7 floor
+Elevator-1 now is stopped on 10
+Elevator-2 now on 6 floor
+Elevator-2 now on 5 floor
+Elevator-2 now on 4 floor
+Elevator-2 now on 3 floor
+Elevator-2 now on 2 floor
+Elevator-2 now is stopped on 1
+
+
+
+
+
+
+New client at 6 floor wants to go down
+Elevator-1 now on 1 floor
+Elevator-1 now on 2 floor
+New client at 1 floor wants to go up
+Elevator-2 someone is coming on 1 floor
+Elevator-1 now on 3 floor
+Elevator-2 now on 1 floor
+Elevator-1 now on 4 floor
+New client at 5 floor wants to go up
+Elevator-2 now on 2 floor
+Elevator-1 now on 5 floor
+Elevator-2 now on 3 floor
+Elevator-1 someone is coming on 6 floor
+New client at 3 floor wants to go down
+Elevator-2 now on 4 floor
+Elevator-1 now on 6 floor
+Elevator-2 someone is coming on 5 floor
+Elevator-1 now on 5 floor
+Elevator-2 now on 5 floor
+Elevator-1 now on 4 floor
+Elevator-2 now on 6 floor
+Elevator-1 someone is coming on 3 floor
+Elevator-2 now on 7 floor
+Elevator-1 now on 3 floor
+Elevator-2 now on 8 floor
+Elevator-1 now on 2 floor
+Elevator-2 now on 9 floor
+Elevator-1 now is stopped on 1
+Elevator-2 now is stopped on 10
